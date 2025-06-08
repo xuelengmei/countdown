@@ -2,7 +2,7 @@
 
 一个简洁实用的 Streamlit 小工具，用于管理重要事件的倒计时提醒。
 
-📍 项目地址：[在线体验](https://你的-streamlit-cloud-link) | [源码查看](https://github.com/你的仓库)
+📍 项目地址：[在线体验](https://你的-streamlit-cloud-link) | [源码查看](https://github.com/xuelengmei/countdown))
 
 ---
 

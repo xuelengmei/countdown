@@ -2,7 +2,7 @@
 
 一个简洁实用的 Streamlit 小工具，用于管理重要事件的倒计时提醒。
 
-📍 项目地址：[在线体验](https://你的-streamlit-cloud-link) | [源码查看](https://github.com/xuelengmei/countdown))
+📍 项目地址：[在线体验](https://countdown-fzwswua3ujzkavtrxnr2oy.streamlit.app/) | [源码查看](https://github.com/xuelengmei/countdown)
 
 ---
 
@@ -29,7 +29,7 @@
 ## 📦 如何本地运行
 
 ```bash
-git clone https://github.com/你的仓库.git
+git clone https://github.com/xuelengmei/countdown.git
 cd countdown-manager
 pip install -r requirements.txt
 streamlit run app.py
